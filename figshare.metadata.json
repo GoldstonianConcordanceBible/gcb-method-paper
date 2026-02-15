@@ -1,0 +1,21 @@
+{
+  "title": "Mirror → Water → Fire: A Structured Concordance Operating System",
+  "description": "Whitepaper + specification for the Mirror → Water → Fire (MWF) interpretive framework. Includes schemas and examples for anchor objects and cross-link graphs to support deterministic retrieval in educational and AI systems. Contains safety guardrails and a theological non-assertion clause.",
+  "keywords": [
+    "concordance",
+    "theology",
+    "knowledge graph",
+    "metadata",
+    "provenance",
+    "retrieval"
+  ],
+  "categories": ["Computer and Information Sciences", "Humanities", "Religious Studies"],
+  "authors": [
+    { "name": "Justin Goldston, PhD", "affiliation": "SydTek University" }
+  ],
+  "license": "MIT",
+  "funding": [],
+  "references": [
+    "https://github.com/GoldstonianConcordanceBible/gcb-mwf-whitepaper"
+  ]
+}

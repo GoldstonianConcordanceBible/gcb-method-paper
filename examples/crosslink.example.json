@@ -1,0 +1,18 @@
+{
+  "from_anchor": {
+    "work_id": "GEN",
+    "canon_family": "HebrewBible",
+    "ref": "Genesis 1:1",
+    "text_hash": "sha256:REPLACE_ME"
+  },
+  "to_anchor": {
+    "work_id": "JHN",
+    "canon_family": "NewTestament",
+    "ref": "John 1:1",
+    "text_hash": "sha256:REPLACE_ME"
+  },
+  "link_type": "thematic",
+  "evidence": "Parallel opening motif; document scholarly or rule-based evidence here.",
+  "confidence": 0.65,
+  "review_status": "proposed"
+}

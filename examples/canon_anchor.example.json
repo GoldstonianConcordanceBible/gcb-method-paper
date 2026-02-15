@@ -1,0 +1,10 @@
+{
+  "work_id": "GEN",
+  "canon_family": "HebrewBible",
+  "ref": "Genesis 1:1",
+  "text_hash": "sha256:REPLACE_ME",
+  "source_uri": "REPLACE_ME",
+  "edition": "REPLACE_ME",
+  "license": "REPLACE_ME",
+  "notes": "Mirror-phase anchor example."
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CrossLink",
+  "type": "object",
+  "required": ["from_anchor", "to_anchor", "link_type", "evidence", "review_status"],
+  "properties": {
+    "from_anchor": {"$ref": "canon_anchor.schema.json"},
+    "to_anchor": {"$ref": "canon_anchor.schema.json"},
+    "link_type": {
+      "type": "string",
+      "enum": ["lexical", "thematic", "citation", "narrative", "doctrinal"]
+    },
+    "evidence": {"type": "string"},
+    "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "review_status": {"type": "string", "enum": ["proposed", "reviewed", "approved", "rejected"]}
+  },
+  "additionalProperties": false
+}

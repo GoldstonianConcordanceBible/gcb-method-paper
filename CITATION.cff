@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it."
+title: "Mirror → Water → Fire: A Structured Concordance Operating System"
+type: software
+authors:
+  - family-names: "Goldston"
+    given-names: "Justin"
+    name-suffix: "PhD"
+repository-code: "https://github.com/GoldstonianConcordanceBible/gcb-mwf-whitepaper"
+license: "MIT"
+version: "0.1.0"
+abstract: "Formalizes Mirror → Water → Fire as an anchor-first, graph-explicit, safe-by-design concordance OS for deterministic agent retrieval."
+keywords:
+  - Concordance
+  - Knowledge Graph
+  - Retrieval
+  - Provenance
+  - Theology
+  - AI Governance

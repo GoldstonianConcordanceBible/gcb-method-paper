@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CanonAnchor",
+  "type": "object",
+  "required": ["work_id", "canon_family", "ref", "text_hash"],
+  "properties": {
+    "work_id": {"type": "string"},
+    "canon_family": {"type": "string"},
+    "ref": {"type": "string"},
+    "text_hash": {"type": "string"},
+    "source_uri": {"type": "string"},
+    "edition": {"type": "string"},
+    "license": {"type": "string"},
+    "notes": {"type": "string"}
+  },
+  "additionalProperties": false
+}

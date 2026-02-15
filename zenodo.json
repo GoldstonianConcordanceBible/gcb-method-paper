@@ -1,0 +1,21 @@
+{
+  "title": "Mirror → Water → Fire: A Structured Concordance Operating System",
+  "upload_type": "software",
+  "description": "Formalizes the Mirror → Water → Fire (MWF) interpretive framework as an anchor-first, graph-explicit concordance operating system with safety constraints and deterministic retrieval for agent-compatible systems.",
+  "creators": [
+    {
+      "name": "Goldston, Justin",
+      "affiliation": "SydTek University"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "concordance",
+    "knowledge graph",
+    "retrieval determinism",
+    "provenance",
+    "interpretation",
+    "AI governance"
+  ],
+  "notes": "Includes a theological non-assertion clause and safety guardrails for education and AI systems."
+}
